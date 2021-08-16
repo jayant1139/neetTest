@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.093" height="122.771" viewBox="0 0 161.093 122.771">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".512" x2=".512" y1="1" y2=".015" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#59bff3"/>
+            <stop offset="1" stop-color="#41a5da"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="1" x2="0" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#ebebeb"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-4" x1="1" x2="0" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fb4748"/>
+            <stop offset="1" stop-color="#ff806d"/>
+        </linearGradient>
+        <filter id="Oval" width="48.309" height="48.309" x="55" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Fill_42" width="161.093" height="110.335" x="0" y="12.436" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-1{stroke:transparent;fill:url(#linear-gradient)}.cls-3{fill:url(#linear-gradient-4)}
+        </style>
+    </defs>
+    <g id="Component_9_1" transform="translate(9.5 6.5)">
+        <g id="Group_1384" transform="translate(-1425.471 -2965)">
+            <g id="Mode" transform="translate(1425.471 2965)">
+                <g id="Group_4" transform="translate(0)">
+                    <g id="Group_21" transform="translate(0)">
+                        <g filter="url(#Oval)" transform="matrix(1, 0, 0, 1, -9.5, -6.5)">
+                            <circle id="Oval-2" cx="14.654" cy="14.654" r="14.654" class="cls-1" transform="translate(64.5 6.5)"/>
+                        </g>
+                        <g id="Group_18" transform="translate(0 12.436)">
+                            <g id="Group_8" transform="translate(0 91.335) rotate(-90)">
+                                <g filter="url(#Fill_42)" transform="matrix(0, 1, -1, 0, 110.27, -9.5)">
+                                    <path id="Fill_42-2" d="M8.89 142.093h73.556a8.891 8.891 0 0 0 8.89-8.892V8.89A8.889 8.889 0 0 0 82.446 0H8.89A8.889 8.889 0 0 0 0 8.89V133.2a8.891 8.891 0 0 0 8.89 8.892" class="cls-1" transform="translate(9.5 110.27) rotate(-90)"/>
+                                </g>
+                                <path id="Fill_43" fill="url(#linear-gradient-3)" d="M0 116.549a7.543 7.543 0 0 0 7.543 7.543h62.61a7.543 7.543 0 0 0 7.543-7.543V7.543A7.543 7.543 0 0 0 70.153 0H7.543A7.543 7.543 0 0 0 0 7.543z" transform="translate(6.205 7.756)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="wifi_3_" transform="translate(42.656 36.527)">
+                        <circle id="Oval-3" cx="3.878" cy="3.878" r="3.878" class="cls-3" transform="translate(24.818 38.779)"/>
+                        <path id="Path" d="M55.255 11.863a37.425 37.425 0 0 0-54.67 0 2.161 2.161 0 0 0 .109 3.066 2.19 2.19 0 0 0 3.083-.108 33.046 33.046 0 0 1 48.287 0 2.176 2.176 0 0 0 3.191-2.958z" class="cls-3" transform="translate(0)"/>
+                        <path id="Path-2" d="M39.69 8.564A27.144 27.144 0 0 0 20.165 0 27.141 27.141 0 0 0 .639 8.564a2.294 2.294 0 0 0 .012 3.191 2.168 2.168 0 0 0 3.117-.012 22.817 22.817 0 0 1 16.4-7.23 22.82 22.82 0 0 1 16.4 7.23 2.168 2.168 0 0 0 3.117.012 2.294 2.294 0 0 0 .005-3.191z" class="cls-3" transform="translate(7.756 12.409)"/>
+                        <path id="Path-3" d="M22.6 4.265A16.94 16.94 0 0 0 11.716 0h-.165A16.941 16.941 0 0 0 .663 4.265a1.917 1.917 0 0 0-.015 2.886 2.344 2.344 0 0 0 1.589.6 2.345 2.345 0 0 0 1.574-.591 12.249 12.249 0 0 1 7.74-3.083h.164a12.249 12.249 0 0 1 7.74 3.083 2.392 2.392 0 0 0 3.164-.013 1.917 1.917 0 0 0-.019-2.882z" class="cls-3" transform="translate(17.063 26.369)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
