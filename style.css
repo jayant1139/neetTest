@@ -305,6 +305,7 @@ display: block;
 cursor: pointer;
 font-size: 12px;
 margin: 10px;
+/* z-index: 5; */
 box-shadow: 0px 0px 5px 1px rgba(210,208,208,0.5);
 -webkit-box-shadow: 0px 0px 5px 1px rgba(210,208,208,0.5);
 -moz-box-shadow: 0px 0px 5px 1px rgba(210,208,208,0.5);
@@ -315,6 +316,7 @@ padding:10px;
     /* padding-left: 5px; */
 }
 .faq-container .faq-item-1{
+    display: block;
     /* border:1px solid grey; */
     font-size: 10px;
     /* justify-content: flex-start; */
@@ -326,9 +328,9 @@ padding:10px;
 -webkit-box-shadow: 0px 0px 10px 0px rgba(210,208,208,0.5);
 -moz-box-shadow: 0px 0px 10px 0px rgba(210,208,208,0.5);
 }
-/* #i1,#i2,#i3,#i4,#i5,#i6,#i7,#i8,#i9,#i10{
+#i1,#i2,#i3,#i4,#i5,#i6,#i7,#i8,#i9,#i10{
     display: none;
-} */
+}
 
 /* responsive for tablet devices */
 @media screen   and ( min-width:475px) and (max-width:768px) {
@@ -498,7 +500,10 @@ padding:10px;
    .faq-item{
        font-size: 18px;
    }
-   .faq-item-1{
-       font-size: 16px;
+   .faq-item i{
+       font-size: 25px;
+   }
+   .faq-container .faq-item-1{
+       font-size:14px;
    }
    }
