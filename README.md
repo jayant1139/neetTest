@@ -1,6 +1,5 @@
-### [Live Site](https://jayant1139.github.io/neetTest/
-)
-![Front-end page](https://ibb.co/gM3FgPk)
+### [Live Site](https://jayant1139.github.io/neetTest/)
+![Front-end page](https://i.ibb.co/gM3FgPk/Screenshot-2021-10-16-211352.jpg)
 # neetTest
 This a Neet Test Web page of an institute which I have created! 
-"https://i.ibb.co/gM3FgPk/Screenshot-2021-10-16-211352.jpg"
+
